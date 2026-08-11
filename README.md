@@ -41,7 +41,7 @@ Desenvolvedor Web em Formação
 "Estou aberto a oportunidades de aprendizado, desafios de nível júnior, colaborações em projetos ou simplesmente para trocar experiências sobre tecnologia."
 
 * 📍 Localização: Vila Velha - ES
-* 💼 LinkedIn: [Seu Nome](https://linkedin.com) (Substitua pelo seu link)
+* 💼 LinkedIn: [Marcio piccoli](www.linkedin.com/in/marcio-piccoli-095883428) 
 * 📧 E-mail: [marciopiccoli47@gmail.com](mailto:marciopiccoli47@gmail.com)
 
 ---
