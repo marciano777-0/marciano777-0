@@ -41,7 +41,7 @@ Desenvolvedor Web em Formação
 "Estou aberto a oportunidades de aprendizado, desafios de nível júnior, colaborações em projetos ou simplesmente para trocar experiências sobre tecnologia."
 
 * 📍 Localização: Vila Velha - ES
-* 💼 LinkedIn: [Linkedin]() 
+* 💼 LinkedIn: [Link do Projeto](https://vercel.app)
 * 📧 E-mail: [marciopiccoli47@gmail.com](mailto:marciopiccoli47@gmail.com)
 
 ---
